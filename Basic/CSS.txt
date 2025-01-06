@@ -1,0 +1,5 @@
+-----------SELECTORS-------
+1.universal
+2.tag selector
+3.id
+4.class

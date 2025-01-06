@@ -1,0 +1,19 @@
+
+table,th,tr,td{
+
+    border:2px solid black ;
+    border-collapse: collapse;
+    
+
+}
+th{
+
+    background-color: rgb(247, 168, 245);
+    
+}
+td{
+    background-color: rgb(72, 241, 109);
+}
+h2{
+text-align:start;
+}

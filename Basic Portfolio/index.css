@@ -1,0 +1,57 @@
+body{
+    /* background-image: url('data:image/jpeg;base64,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'); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    background-image: radial-gradient();
+   
+ 
+}
+header{
+    background-color: rgb(73, 133, 141);
+    text-align: center;
+}
+header h1{
+    color: white;
+    padding:15px;
+}
+header nav ul{
+    padding:10px;
+}
+header nav ul li{
+    display:inline;/*make the content from vertical to horizontal*/
+    padding:60px; 
+}
+header nav ul li a{
+    color:sandybrown;
+    text-decoration: none;
+}
+#Home h2{
+    text-align: center;
+}
+#Home img{
+    height:100px;
+    width: 100px;
+    text-align: center;
+    margin-left: 10px;
+    border-radius: 50%;
+}
+#Home p{
+    text-align: center;
+}
+#Portfolio h2 p{
+    text-align: center;
+    background-color: rgb(194, 180, 162);
+}
+#Portfolio {
+    background-color: antiquewhite;
+    padding:10px;
+
+}
+#Skills ul li{
+    display: inline;
+}
+footer{
+    background-color:rgba(255, 255, 0, 0.534) ;
+}
