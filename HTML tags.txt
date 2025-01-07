@@ -1,0 +1,46 @@
+------------------BASIC-------------------------------
+<h1>-header
+<p>-paragraph-page hight and width(normal para)
+<pre>-structure the paragraph(Eg.poem)
+----------------TEXT FORMATING TAGS-------------------
+<b>-bold
+<strong>-bold
+<mark>-highlight
+<sup>-suffix(power or exponential)
+<sub>-prefix
+<i>-italic
+<em>-sames as italic
+<br>break(one enter or tab space)not have close tag
+<hr>-horizondal line 
+<em>change the font family size
+<marquee>-like news below romancing 
+<td>table data
+<u>-underline tag
+<del>-delete
+
+----------------MEDIA TAGS---------------------------
+<img>-image(need attribute->src(source-image file name)
+<>-background image
+<a> anchor tag that redirect
+<target> to redirect and switch to new tab>
+
+-----------------LIST TAGS---------------------------
+3 types
+1.order 2.unorder 3.discription 
+<li>-list the elements(default as bullet points)
+<ol>-can we chage the type of attribute(eg.roman)
+<ul>
+<dl>
+--------------------TABLE TAG-----------------------
+<table>
+<tr>-row
+<th>-table header 
+<td>-table data
+
+=========Properties of flex=============
+flex direction-row
+flex wrap
+justify content
+align item
+align content
+flex flow 

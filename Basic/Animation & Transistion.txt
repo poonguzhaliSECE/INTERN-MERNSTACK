@@ -1,1 +1,37 @@
 Animation & Transistion
+
+8 properties
+translate-moves as elements from its current position
+rotate
+scale-x-increase the height and width of the element
+scale-y
+skew-x
+skew-y
+matrix
+
+4
+transistion duration
+transistion delay
+transistion timingfunction
+transistion timimgproperty
+
+--------------
+
+ease
+linear
+easein
+easeout
+easeinout
+-------------
+animations
+-------------
+key frames->instead of hover in animation 
+animation name
+animation duration
+animation delay
+animation iteration count
+animation direction
+animation timing function
+animation fill mode
+
+Iframe
