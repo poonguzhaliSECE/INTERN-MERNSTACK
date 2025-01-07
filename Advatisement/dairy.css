@@ -1,4 +1,82 @@
-head1{
-    font-family: cursive;
-    background-image:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fcadburygifting.in%2Fcadbury-dairy-milk-silk.html&psig=AOvVaw3xP0rN1vQe2iNyw1uwBCsG&ust=1736237570993000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCtzpTT4IoDFQAAAAAdAAAAABAE" ;
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1, h2 {
+    font-family:cursive;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+header {
+    background-color: #461a91;
+    color: white;
+    padding: 30px 0;
+}
+
+header h1 {
+    font-size: 3em;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+.product-section {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 17px;
+}
+
+.product {
+    width: 22%;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.product:hover {
+    transform: scale(1.05);
+}
+
+.product img {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.product h2 {
+    color: #753bd8;
+    margin-top: 15px;
+    font-size: 1.5em;
+}
+
+.product p {
+    color: #777;
+    font-size: 1em;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #6931ca;
+    color: white;
+    padding: 20px 0;
+}
+
+footer p {
+    font-size: 1em;
+    font-family: fantasy;
 }

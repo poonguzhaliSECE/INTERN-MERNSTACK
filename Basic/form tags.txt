@@ -1,0 +1,40 @@
+form--------------------------------
+11 child tags
+-------------
+input-24 types
+label-
+select
+textarea
+button
+fieldset
+legend
+datalist
+output
+option
+optgroup-option group
+
+input-types
+-----------
+text
+email
+password
+number
+radio
+tell-telephone
+date
+month
+week
+url
+submit
+reset
+search
+image
+file
+checkbox
+color-colopad
+datetime local
+range
+hidden
+button
+time
+

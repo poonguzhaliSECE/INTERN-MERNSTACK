@@ -1,0 +1,57 @@
+/* div{
+    height:50px;
+    width:50px;
+    background-color:red;
+     transform:translate(50px,100px);2d transform
+     transition: transform 0.5s;
+}
+div:hover{
+    transform:translate(50px,100px);
+    transform: rotate(45deg);
+    transform:skewX(45deg)
+     transform:scalex(0.5) 
+    transform:matrix(1,-0.3,0,1,0,0)
+    matrix(rotate,scalex(),skewX(),scaleY(),translateX(),translateY())
+} */
+
+/* div{
+    height:50px;
+    width:50px;
+    background-color:red;
+    transition : heigth 5s,width 5s;
+    transition-delay: 5s;
+
+}
+div:hover{
+   width:200px;
+   height:200px ;
+   /* transition-timing-function:ease; */
+   /* transition-timing-function: linear; */
+
+   /* div{
+    height:50px;
+    width:50px;
+    background-color:red;
+     animation-name: box;
+     animation-duration:10s;
+   } */
+   /* @keyframes  box {
+    from{
+       background-color:red;
+    }
+    to{
+        background-color: green;
+    }
+     */
+   /* @keyframes box{
+    0%{
+        background-color: aqua;
+    }
+    20%{
+        background-color: blue;
+    }
+    50%{
+        background-color: brown;
+  }
+   } */
+    
